@@ -1,0 +1,7 @@
+name: FactoriesL
+version: '${project.version}'
+main: codes.lewi.factoriesl.Main
+api-version: 1.18
+authors: [ LewiDev ]
+description: a Minecraft java plugin which provides a unique method to generate items/in-game currency.
+website: codes.lewi/FactoriesL
